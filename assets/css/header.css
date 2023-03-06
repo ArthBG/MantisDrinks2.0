@@ -29,7 +29,6 @@ ul {
     justify-content: center;
     padding-top: 10px;
     margin: 0%;
-    padding-top: 10px;
     padding-left: 0;
 
 }
@@ -48,11 +47,12 @@ body {
 }
 
 .logo {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     margin: auto;
-    transform: rotate(360deg);
-    animation: spin 1.5s linear;
+    animation-name: spin; 
+    animation-duration: 2s; 
+    animation-iteration-count: initial; 
   }
   
   @keyframes spin {
