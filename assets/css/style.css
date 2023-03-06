@@ -260,11 +260,43 @@ p{
 #if2 {
     width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+
 .container{
     margin-top: 3%;
     display: flex;
 }
-section{
+#sec41{
+    text-align: center;
+    margin: auto;
+    background-color: blueviolet;
+    width: 30%;
+    margin-right: 3%;
+}
+#sec42{
+    text-align: center;
+    margin: auto;
+    background-color: blueviolet;
+    width: 30%;
+    margin-right: 3%;
+}
+#sec43{
+    text-align: center;
+    margin: auto;
+    background-color: blueviolet;
+    width: 30%;
+    margin-right: 3%;
+}
+s
     text-align: center;
     margin: auto;
     background-color: blueviolet;
