@@ -8,6 +8,9 @@ body {
     height: 100%;
     margin: auto;
     border-radius: 10px;
+    -webkit-box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
+    -moz-box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
+    box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
 }
 #h101{
     text-align: center;
