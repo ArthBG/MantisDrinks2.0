@@ -1,0 +1,19 @@
+body{
+    bottom: 0;
+    margin-bottom: -5px;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+}
+footer{
+
+    background-color:purple;
+    width: 100%;
+}
+#pa1{
+    text-align: center;
+    color: white;
+}
+section{
+    text-align: center;
+}
