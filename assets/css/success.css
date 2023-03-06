@@ -3,6 +3,12 @@ body {
     margin: auto;
     background-color: white;
 }
+form {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
 .container {
     margin: auto;
 }
@@ -10,6 +16,10 @@ body {
     background-color: purple;
     color: white;
     border-radius: 10px;
+}
+#submit1:hover {
+    background-color: rgb(233,196,237);
+    color: black;
 }
 #img1 {
     margin: auto;
