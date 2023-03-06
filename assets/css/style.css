@@ -1,6 +1,5 @@
 /*estilo do body*/
 body{
-    width: 100%;
     background-color: whitesmoke;
     text-align: center;
     margin: 0;
@@ -260,15 +259,25 @@ p{
 }
 #if2 {
     width: 100%;
-    margin-bottom: -5px;
-    position: fixed;
 }
-#art32{
-    border-left-style: solid;
-    border-left-color: purple;
+.container{
+    margin-top: 3%;
     display: flex;
 }
-#sec33{
-    border-left-style: solid;
-    border-left-color: purple;
+section{
+    text-align: center;
+    margin: auto;
+    background-color: blueviolet;
+    width: 30%;
+    margin-right: 3%;
+}
+.container02{
+    margin: auto;
+    margin-top: 3%;
+    display: flex;
+}
+.container03{
+    margin: auto;
+    margin-top: 3%;
+    display: flex;
 }
