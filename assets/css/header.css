@@ -52,7 +52,7 @@ body {
     height: 100px;
     margin: auto;
     transform: rotate(360deg);
-    animation: spin 2s linear;
+    animation: spin 1.5s linear;
   }
   
   @keyframes spin {
