@@ -1,13 +1,19 @@
-form{
+form {
     flex-direction: column;
     display: flex;
     margin: auto;
     width: 50%;
-    
+    margin-top: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-body{
+
+body {
     margin: 0;
 }
-h1{
+
+h1 {
     text-align: center;
+}
+label{
+    margin-top: 1%;
 }
