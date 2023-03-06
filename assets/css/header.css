@@ -4,6 +4,7 @@ header{
 nav{
     margin: auto;
     text-align: center;
+    justify-content: space-between;
 }
 header{
     margin: auto;
@@ -16,6 +17,7 @@ header{
 nav li {
     text-decoration: none;
     justify-content: space-between;
+    padding-right: 5px;
     
 }
 
@@ -25,6 +27,10 @@ ul {
     text-align: center;
     justify-content: center;
     padding-top: 10px;
+    margin: 0%;
+    padding-top: 10px;
+    padding-left: 0;
+
 }
 
 body {
@@ -43,3 +49,4 @@ body {
 #Início:hover{
     background-color: violet;
 }
+
