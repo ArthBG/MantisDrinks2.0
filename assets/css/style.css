@@ -1,9 +1,29 @@
 /*estilo do body*/
 body{
-    background-color: white;
+    background-color: whitesmoke;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-#art01{
+div{
     display:flex ;
+
+}
+#art01{
+    text-align: left;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color:whitesmoke;
+    -webkit-box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
+    -moz-box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
+    box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
+    border-left: solid 10px;
+    border-color: purple;
+    
+}
+#sec02{
+    margin-left: 5%;
+}
+h2{
+    margin-left: 2%;
+    margin-top: 2%;
 }
