@@ -45,7 +45,6 @@ h2{
     border-left-style: solid;
     border-left-color: purple;
     background-color: whitesmoke;
-    width: 100%;
     height: 100%;
     margin: auto;
     border-radius: 10px;
@@ -70,7 +69,6 @@ h2{
     border-left-style: solid;
     border-left-color: purple;
     background-color: whitesmoke;
-    width: 100%;
     height: 100%;
     margin: auto;
     border-radius: 10px;
@@ -375,11 +373,7 @@ p{
     -moz-box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
     box-shadow: 11px 1px 14px 9px rgba(115, 115, 115, 1);
 }
-.container02{
-    margin: auto;
-    margin-top: 3%;
-    display: flex;
-}
+
 .container03{
     margin: auto;
     margin-top: 3%;
