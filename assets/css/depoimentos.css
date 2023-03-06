@@ -163,5 +163,29 @@ h2{
     display: flex;
 }
 p{
+    
+}
+#p01{
     font-style: italic;
+    color: gray;
+}
+#p02{
+    font-style: italic;
+    color: gray;
+}
+#p03{
+    font-style: italic;
+    color: gray;
+}
+#p04{
+    font-style: italic;
+    color: gray;
+}
+#p05{
+    font-style: italic;
+    color: gray;
+}
+#p06{
+    font-style: italic;
+    color: gray;
 }
