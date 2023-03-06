@@ -6,3 +6,8 @@ body {
 .container {
     margin: auto;
 }
+#submit1 {
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+}
