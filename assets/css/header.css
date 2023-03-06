@@ -34,5 +34,12 @@ body {
 }
 #feedback{
     margin-left: 5px;
-    padding-right: 50px;
+
+}
+#feedback:hover{
+    background-color: violet;
+
+}
+#Início:hover{
+    background-color: violet;
 }
