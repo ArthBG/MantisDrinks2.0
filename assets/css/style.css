@@ -1,5 +1,6 @@
 /*estilo do body*/
 body{
+    width: 100%;
     background-color: whitesmoke;
     text-align: center;
     margin: 0;
@@ -261,4 +262,13 @@ p{
     width: 100%;
     margin-bottom: -5px;
     position: fixed;
+}
+#art32{
+    border-left-style: solid;
+    border-left-color: purple;
+    display: flex;
+}
+#sec33{
+    border-left-style: solid;
+    border-left-color: purple;
 }
