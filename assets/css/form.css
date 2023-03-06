@@ -3,14 +3,14 @@ form {
     flex-direction: column;
     display: flex;
     margin: auto;
+    margin-top: 20px;
     width: 50%;
-    margin-top: 10%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-radius: 10px;
 }
 /*estilização do body*/
 body {
     margin: 0;
+    margin-bottom: 5px;
 }
 
 h1 {
@@ -21,17 +21,22 @@ label{
 }
 /*estilização do submit*/
 #sub1{
-    margin-top: 2%;
    color: aliceblue;
     background-color: purple;
     width: 30%;
-    height: 30%;
     margin: auto;
     border-radius: 10px;
+    margin-top: 2%;
 }
 #sub1:hover{
 
 background-color: rgb(233, 196, 237);
 color:purple;
 
+}
+
+#iframefo{
+    margin-bottom: -5px;
+    position: fixed;
+    bottom: 0;
 }
