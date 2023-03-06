@@ -2,6 +2,7 @@
 body{
     background-color: whitesmoke;
     text-align: center;
+    margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 div{
@@ -26,4 +27,15 @@ div{
 h2{
     margin-left: 2%;
     margin-top: 2%;
+}
+#if1 {
+    width: 100%;
+    margin: 0;
+    margin-top: 0;
+    padding: 0;
+
+}
+#if2 {
+    width: 100%;
+    margin-bottom: -5px;
 }
