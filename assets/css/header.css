@@ -13,3 +13,22 @@ header{
     text-decoration: none;
 
 }
+nav li {
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+
+}
