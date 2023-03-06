@@ -1,10 +1,15 @@
 header{
     background-color: purple;
 }
-body{
-    
+nav{
+    margin: auto;
+    text-align: center;
 }
 header{
     margin: auto;
     text-align: center;
+}
+#Início{
+    text-decoration: none;
+
 }
