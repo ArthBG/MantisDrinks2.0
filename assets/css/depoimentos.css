@@ -127,7 +127,25 @@ img{
 h2{
 
 }
+
 #section11{
     display: flex;
-
+}
+#section12{
+    display: flex;
+}
+#section13{
+    display: flex;
+}
+#section14{
+    display: flex;
+}
+#section15{
+    display: flex;
+}
+#section16{
+    display: flex;
+}
+p{
+    font-style: italic;
 }
