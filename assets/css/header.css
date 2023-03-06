@@ -3,17 +3,18 @@ header{
     margin: auto;
     text-align: center;
 }
-
+/*Personalizção do nav*/
 nav{
     margin: auto;
     text-align: center;
     justify-content: space-between;
 }
-    
+    /*personalizção do icone de inicio*/
 #Início{
     text-decoration: none;
 
 }
+/*Decoração dos icones da aba de navegação*/
 nav li {
     text-decoration: none;
     justify-content: space-between;
@@ -36,10 +37,6 @@ ul {
 body {
     margin: 0;
     width: 100%;
-
-}
-#feedback{
-    margin-left: 5px;
 
 }
 #feedback:hover{
